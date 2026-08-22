@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hello World!
 ---
 
 Hello world! This is my digital garden.
