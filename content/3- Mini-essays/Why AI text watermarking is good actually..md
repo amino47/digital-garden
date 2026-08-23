@@ -10,7 +10,6 @@ One major aspect of the watermarking that many people seem to not understand is 
 
 
 ### Related Notes
-[[How do LLMs generate text]]
 [[Pseudo-Random Number Generation]]
 
 ### Sources
