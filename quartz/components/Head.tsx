@@ -90,6 +90,7 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        <link rel="webmention" href="https://webmention.io/ashellm.net/webmention" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
